@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "lars-56ed4": {
+      "hosting": {
+        "LARS": [
+          "lars-56ed4"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "lars-56ed4"
+  }
+}
